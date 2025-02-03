@@ -1,0 +1,22 @@
+{
+    "author": "Alma",
+    "email": "alinp@gmail.com",
+    "github": "github.com/alma",
+    "version": "1.0.1",
+    "companyRelationship": [
+        {
+            "name": "Diskominfo Mojokertokab",
+            "application": {
+                "applications": [
+                    {
+                        "appName": "Mojomandala",
+                        "package": "go.id.mojokertokab.mojomandala",
+                        "joinStart": "2025-02-03",
+                        "joinEnd": "",
+                        "urlMaster": "https://mojokertokab.go.id/"
+                    }
+                ]
+            }
+        }
+    ]
+}

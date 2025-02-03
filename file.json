@@ -16,7 +16,8 @@
                         "urlMaster": "https://mojokertokab.go.id/"
                     }
                 ]
-            }
+            },
+            "defaultUrl": "https://mojokertokab.go.id/"
         }
     ]
 }
